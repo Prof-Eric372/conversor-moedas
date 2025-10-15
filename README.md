@@ -1,9 +1,9 @@
-# conversor-moedas
-# 💱 Conversor de Moedas com API e Interface Gráfica
+conversor-moedas
+Conversor de Moedas com API e Interface Gráfica
 
 Este é um projeto de conversor de moedas com interface gráfica em Python, que utiliza uma API real de câmbio para obter as taxas atualizadas.
 
-## ✨ Funcionalidades
+Funcionalidades:
 
 - Conversão entre moedas (USD, BRL, EUR, GBP, JPY)
 - Interface moderna com modo claro e escuro
@@ -12,14 +12,14 @@ Este é um projeto de conversor de moedas com interface gráfica em Python, que 
 - Consumo de API com `requests`
 - Layout feito com `tkinter` + `Pillow`
 
-## 🧰 Tecnologias utilizadas
+Tecnologias utilizadas
 
 - Python 3
 - Tkinter
 - Pillow
 - Requests
-
-## 📦 Instalação
+- 
+Instalação
 
 Clone o projeto e instale as dependências:
 
